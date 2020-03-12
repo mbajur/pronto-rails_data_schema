@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 4961d13a8e38822cb611b51d3b92f6a27536e08a mbajur <mbajur@gmail.com> 1584010436 +0100	commit (initial): First migration
+4961d13a8e38822cb611b51d3b92f6a27536e08a ec60d57b3a79145ef2ba7b18bd1e088361d99acb mbajur <mbajur@gmail.com> 1584010456 +0100	commit: Second migration
+ec60d57b3a79145ef2ba7b18bd1e088361d99acb e0e21eab5bc017989c56124ac3f603c71023f59d mbajur <mbajur@gmail.com> 1584010464 +0100	commit: Third migration, no schema change
+e0e21eab5bc017989c56124ac3f603c71023f59d bae4367dc222b4b1256db9296460662bdd08bec0 mbajur <mbajur@gmail.com> 1584010645 +0100	commit: Non migration file
