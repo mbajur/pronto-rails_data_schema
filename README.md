@@ -9,3 +9,4 @@ Based on [raimondasv/pronto-rails_schema](https://github.com/raimondasv/pronto-r
 [What is Pronto?](https://github.com/mmozuras/pronto)
 
 [![Gem Version](https://badge.fury.io/rb/pronto-rails_data_schema.svg)](https://badge.fury.io/rb/pronto-rails_data_schema)
+[![Build Status](https://travis-ci.org/mbajur/pronto-rails_data_schema.svg?branch=master)](https://travis-ci.org/mbajur/pronto-rails_data_schema)
